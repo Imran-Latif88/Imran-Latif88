@@ -1,7 +1,8 @@
+<!--
 [![Imran Latif GitHub Banner](./assets/GitHubheader.png)](https://Imran-Latif88.github.io/portfolio/)
 [![Visits Badge](https://badges.pufler.dev/visits/Imran-Latif88/]()
 [![Years Badge](https://badges.pufler.dev/years/Imran-Latif88)]()
-
+-->
 Hey there 👋
 
 I'm Imran Latif a confident and highly motivated "Web /AI Developer" who is organised and focused. Champion of best practice, skills and specialized in "React + Nodejs + WebRTC + Python + llm Integration". 
