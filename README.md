@@ -16,7 +16,7 @@ Passionate about building robust systems, I strive to improve the efficiency and
 <br>
 
 <a href="">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=imranlatif0345&repo=SonarQube&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Imran-Latif88&repo=SonarQube&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
@@ -33,7 +33,7 @@ Passionate about building robust systems, I strive to improve the efficiency and
 </a>
 
 <a href="https://github.com/Imran-Latif88">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Imran-latif88359&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Imran Latif's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Imran-Latif88&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Imran Latif's GitHub Stats" />
 </a>
 
 <br>
@@ -51,6 +51,7 @@ Passionate about building robust systems, I strive to improve the efficiency and
 <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 <img alt="REST API" src="https://img.shields.io/badge/REST API-005571?style=for-the-badge&logo=rest&logoColor=white" />
 <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+
 
 
 <br>
