@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm Imran Latif a confident and highly motivated "Web /AI Developer" who is organised and focused. Champion of best practice, skills and specialised in "React + Nodejs + Python + llm Integration". 
+I'm Imran Latif a confident and highly motivated "Web /AI Developer" who is organised and focused. Champion of best practice, skills and specialized in "React + Nodejs + WebRTC + Python + llm Integration". 
 <br>
 Passionate about building robust systems, I strive to improve the efficiency and reliability of software to positively impact the teams and users involved.
 
@@ -50,7 +50,6 @@ Passionate about building robust systems, I strive to improve the efficiency and
 <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 <img alt="REST API" src="https://img.shields.io/badge/REST API-005571?style=for-the-badge&logo=rest&logoColor=white" />
 <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-<img alt="LiveKit" src="https://img.shields.io/badge/LiveKit-1DA1F2?style=for-the-badge&logo=livekit&logoColor=white" />
 
 
 <br>
