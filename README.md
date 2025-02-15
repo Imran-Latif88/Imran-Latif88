@@ -53,7 +53,7 @@ Passionate about building robust systems, I strive to improve the efficiency and
 <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
 
 
-
+<!--
 <br>
 
 ## 📣 How about a Vegetius quote before you go?
@@ -64,4 +64,6 @@ Passionate about building robust systems, I strive to improve the efficiency and
 
 _Quote by the Roman general "Publius Flavius Vegetius Renatus" [Vegetius](https://www.amazon.com/RE-MILITARI-VEGETIUS-Complete-Official/dp/1697849075/)_
 
-<br>
+<be
+-->
+
